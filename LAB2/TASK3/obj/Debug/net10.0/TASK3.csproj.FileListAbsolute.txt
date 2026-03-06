@@ -1,0 +1,14 @@
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/bin/Debug/net10.0/TASK3
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/bin/Debug/net10.0/TASK3.deps.json
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/bin/Debug/net10.0/TASK3.runtimeconfig.json
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/bin/Debug/net10.0/TASK3.dll
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/bin/Debug/net10.0/TASK3.pdb
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.GeneratedMSBuildEditorConfig.editorconfig
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.AssemblyInfoInputs.cache
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.AssemblyInfo.cs
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.csproj.CoreCompileInputs.cache
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.dll
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/refint/TASK3.dll
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.pdb
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/TASK3.genruntimeconfig.cache
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK3/obj/Debug/net10.0/ref/TASK3.dll

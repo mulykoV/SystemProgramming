@@ -1,0 +1,15 @@
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/bin/Debug/net10.0/TASK1
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/bin/Debug/net10.0/TASK1.deps.json
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/bin/Debug/net10.0/TASK1.runtimeconfig.json
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/bin/Debug/net10.0/TASK1.dll
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/bin/Debug/net10.0/TASK1.pdb
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.GeneratedMSBuildEditorConfig.editorconfig
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.AssemblyInfoInputs.cache
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.AssemblyInfo.cs
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.csproj.CoreCompileInputs.cache
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.dll
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/refint/TASK1.dll
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.pdb
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.genruntimeconfig.cache
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/ref/TASK1.dll
+/home/volodymyr/Learning/SystemProgramming/LAB1/TASK1/obj/Debug/net10.0/TASK1.sourcelink.json
