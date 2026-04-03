@@ -12,3 +12,4 @@
 /home/volodymyr/Learning/SystemProgramming/LAB2/TASK1/obj/Debug/net10.0/TASK1.pdb
 /home/volodymyr/Learning/SystemProgramming/LAB2/TASK1/obj/Debug/net10.0/TASK1.genruntimeconfig.cache
 /home/volodymyr/Learning/SystemProgramming/LAB2/TASK1/obj/Debug/net10.0/ref/TASK1.dll
+/home/volodymyr/Learning/SystemProgramming/LAB2/TASK1/obj/Debug/net10.0/TASK1.sourcelink.json

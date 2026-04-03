@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:MovieApp"
+        x:Class="MovieApp.MainWindow"
+        x:DataType="local:MainWindow"
+        Title="Лабораторна: №5"
+        Width="400" Height="450">
+    
+    <StackPanel Margin="20" Spacing="10">
+        <Button Content="Вивести дані у TreeView" 
+                Click="DisplayMovie_Click" 
+                HorizontalAlignment="Stretch" 
+                HorizontalContentAlignment="Center"/>
+        
+        <TreeView Name="MyTreeView" Height="300" BorderBrush="Gray" BorderThickness="1">
+            <TreeView.ItemTemplate>
+                <TreeDataTemplate ItemsSource="{Binding Nodes}" x:DataType="local:TreeItem">
+                    <TextBlock Text="{Binding Header}" />
+                </TreeDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+    </StackPanel>
+</Window>

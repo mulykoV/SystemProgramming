@@ -1,0 +1,18 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="LAB4.MainWindow"
+        Title="Лабораторна 4 - Асинхронність" Width="400" Height="250"
+        WindowStartupLocation="CenterScreen">
+    
+    <StackPanel Margin="20" Spacing="10">
+        <StackPanel Orientation="Horizontal" Spacing="10">
+            <Button Name="btnStart" Content="Start" Width="80" Background="DarkGreen" Foreground="White"/>
+            <Button Name="btnCancel" Content="Cancel" Width="80" IsEnabled="False" Background="DarkRed" Foreground="White"/>
+        </StackPanel>
+        
+        <ProgressBar Name="progBar" Minimum="0" Maximum="100" Height="25" ShowProgressText="True"/>
+        
+        <TextBlock Name="lblStatus" Text="Статус: Очікування" VerticalAlignment="Center"/>
+        <TextBlock Name="txtResult" Text="Результат: ---" FontSize="18" FontWeight="Bold" Margin="0,10,0,0"/>
+    </StackPanel>
+</Window>
